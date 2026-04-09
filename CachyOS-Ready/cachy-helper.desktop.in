@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=CachyOS Control Center
+Comment=Utility dashboard for CachyOS and Linux maintenance
+Exec=__BINPATH__
+Icon=cachy-helper
+Terminal=false
+Categories=System;Utility;
+StartupNotify=true

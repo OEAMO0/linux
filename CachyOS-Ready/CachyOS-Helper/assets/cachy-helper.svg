@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="CachyOS Control Center">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#123f33"/>
+      <stop offset="100%" stop-color="#2ea36d"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="52" fill="url(#bg)"/>
+  <rect x="40" y="52" width="176" height="152" rx="20" fill="#f4fff9" opacity="0.96"/>
+  <rect x="58" y="74" width="140" height="18" rx="9" fill="#2a8d6c"/>
+  <rect x="58" y="108" width="102" height="14" rx="7" fill="#9ecdbb"/>
+  <rect x="58" y="136" width="122" height="14" rx="7" fill="#9ecdbb"/>
+  <rect x="58" y="164" width="88" height="14" rx="7" fill="#9ecdbb"/>
+  <circle cx="196" cy="157" r="24" fill="#123f33"/>
+  <path d="M196 143v28M182 157h28" stroke="#f4fff9" stroke-linecap="round" stroke-width="8"/>
+</svg>
